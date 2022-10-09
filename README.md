@@ -1,4 +1,4 @@
-# MedicalSegmentation
+# Evidential fusion with Contextual discounting for  Medical image segmentation
 
 
 
