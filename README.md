@@ -23,7 +23,7 @@ python TRAINING_unet_enn.py
 ```
 
 ###########Citing this paper #############
-
+```bash
 @inproceedings{huang2022evidence,
   title={Evidence fusion with contextual discounting for multi-modality medical image segmentation},
   author={Huang, Ling and Denoeux, Thierry and Vera, Pierre and Ruan, Su},
@@ -31,5 +31,6 @@ python TRAINING_unet_enn.py
   pages={401--411},
   year={2022},
   organization={Springer}
-}
 
+}
+```
