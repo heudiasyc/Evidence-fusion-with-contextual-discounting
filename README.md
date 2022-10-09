@@ -5,20 +5,22 @@ We propose a new deep framework allowing us to merge multi-MRI image segmentatio
 
 ###
 Environment requirement: 
+```bash
 Before using the code, please install the required packages according to the instructions( refer to https://github.com/iWeisskohl/Evidential-neural-network-for-lymphoma-segmentation )
+```
 ###
 Models:
+```bash
 Copy the models from net  into ./monai/networks/nets
-
+```
 ###
 Pre-Trained weights of ES module for flair, t1, t1Gd and t2 are located in ./model_single_modality
 
 
- Training: 
- 
- ./medical-segmentation-master_enn_fusion
- 
+ Training:  ./medical-segmentation-master_enn_fusion
+ ```bash
 python TRAINING_unet_enn.py
+```
 
 ###########Citing this paper #############
 
